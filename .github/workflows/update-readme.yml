@@ -1,6 +1,9 @@
 name: Update README with recent activity
 
 on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/update-readme.yml"]
   schedule:
     - cron: "0 6 * * *" # daily at 6am UTC
   workflow_dispatch:
