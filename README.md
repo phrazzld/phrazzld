@@ -31,7 +31,11 @@ Building autonomous infrastructure — agents that monitor, review, and ship cod
 ### Recent Activity
 
 <!-- RECENT:START -->
-<!-- Updated automatically via GitHub Actions -->
+- **[misty-step/landfall](https://github.com/misty-step/landfall)** `Python` — Focused release pipeline: conventional commits → technical changelogs → LLM-synthesized user-facing release notes *(2026-02-12)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-12)*
+- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-12)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Go` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-02-12)*
+- **[misty-step/laboratory](https://github.com/misty-step/laboratory)** `Python` — Misty Step's open science laboratory. Hypotheses, experiments, results, tools. *(2026-02-12)*
 <!-- RECENT:END -->
 
 ---
