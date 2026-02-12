@@ -8,7 +8,7 @@ Solo founder at [Misty Step](https://mistystep.io). One engineer, no employees, 
 
 ### Developer tools
 
-- **[thinktank](https://github.com/phrazzld/thinktank)** - Multi-LLM synthesis CLI. Query multiple models, get one answer.
+- **[thinktank](https://github.com/misty-step/thinktank)** - Multi-LLM synthesis CLI. Query multiple models, get one answer.
 - **[moonbridge](https://github.com/misty-step/moonbridge)** - MCP bridge for delegating between AI CLIs.
 - **[vox](https://github.com/misty-step/vox)** - Invisible macOS dictation. Hotkey to clean text, anywhere.
 - **[ponder](https://github.com/phrazzld/ponder)** - Fast note-taking CLI. Rust.
@@ -26,7 +26,7 @@ Agents that monitor, review, and ship code:
 
 - **[bitterblossom](https://github.com/misty-step/bitterblossom)** - Provisions agent fleets on Fly.io.
 - **[cerberus](https://github.com/misty-step/cerberus)** - Multi-agent code review. Five reviewers per PR.
-- **[factory](https://github.com/misty-step/factory)** - Control plane and dashboard.
+- **[cortex](https://github.com/misty-step/cortex)** - Real-time factory dashboard. Agent and sprite visibility.
 
 ### Recent activity
 
