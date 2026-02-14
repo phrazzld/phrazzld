@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/cortex](https://github.com/misty-step/cortex)** `TypeScript` — plug into the factory *(2026-02-13)*
-- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-13)*
-- **[misty-step/laboratory](https://github.com/misty-step/laboratory)** `Python` — Misty Step's open science laboratory. Hypotheses, experiments, results, tools. *(2026-02-13)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-13)*
-- **[misty-step/cadence](https://github.com/misty-step/cadence)** `Swift` — A macOS menu bar Pomodoro timer. One thing, done perfectly. *(2026-02-13)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Go` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-02-14)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-14)*
+- **[misty-step/cadence](https://github.com/misty-step/cadence)** `Swift` — A macOS menu bar Pomodoro timer. One thing, done perfectly. *(2026-02-14)*
+- **[misty-step/cortex](https://github.com/misty-step/cortex)** `TypeScript` — plug into the factory *(2026-02-14)*
+- **[misty-step/laboratory](https://github.com/misty-step/laboratory)** `Python` — Misty Step's open science laboratory. Hypotheses, experiments, results, tools. *(2026-02-14)*
 <!-- RECENT:END -->
 
 ---
