@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/site-template](https://github.com/misty-step/site-template)** `Astro` — Astro + Tailwind starter template for business website demos *(2026-02-15)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-15)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Go` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-02-15)*
-- **[misty-step/cortex](https://github.com/misty-step/cortex)** `TypeScript` — plug into the factory *(2026-02-15)*
-- **[misty-step/site-forge](https://github.com/misty-step/site-forge)** `Go` — Quality verification harness for static websites — Lighthouse, asset checks, vision grading *(2026-02-15)*
+- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Go` — programmable cognition *(2026-02-16)*
+- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-16)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-16)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-02-16)*
+- **[phrazzld/claude-config](https://github.com/phrazzld/claude-config)** `Python` *(2026-02-16)*
 <!-- RECENT:END -->
 
 ---
