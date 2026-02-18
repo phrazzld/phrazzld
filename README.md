@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/cortex](https://github.com/misty-step/cortex)** `TypeScript` — plug into the factory *(2026-02-17)*
+- **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-02-18)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-02-17)*
+- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-17)*
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-02-17)*
 - **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-02-17)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-17)*
-- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-17)*
 <!-- RECENT:END -->
 
 ---
