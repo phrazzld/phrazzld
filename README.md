@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-02-21)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-02-21)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-21)*
-- **[misty-step/heartbeat](https://github.com/misty-step/heartbeat)** `TypeScript` — Beautiful, set-and-forget uptime monitoring. *(2026-02-21)*
-- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-21)*
+- **[misty-step/fab-pr-pipeline](https://github.com/misty-step/fab-pr-pipeline)** `Go` — Factory PR processing pipeline — fix CI, review, merge *(2026-02-22)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-22)*
+- **[misty-step/heartbeat](https://github.com/misty-step/heartbeat)** `TypeScript` — Beautiful, set-and-forget uptime monitoring. *(2026-02-22)*
+- **[phrazzld/glance](https://github.com/phrazzld/glance)** `Go` — autogen quick summaries of every directory *(2026-02-22)*
+- **[misty-step/site-template](https://github.com/misty-step/site-template)** `Astro` — Astro + Tailwind starter template for business website demos *(2026-02-22)*
 <!-- RECENT:END -->
 
 ---
