@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-02-24)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-02-24)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-02-24)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-24)*
-- **[misty-step/caesar-in-a-year](https://github.com/misty-step/caesar-in-a-year)** `TypeScript` *(2026-02-24)*
+- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-02-25)*
+- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-02-25)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-25)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-02-25)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-25)*
 <!-- RECENT:END -->
 
 ---
