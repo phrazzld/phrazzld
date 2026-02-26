@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-02-25)*
-- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-02-25)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-25)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-02-25)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-25)*
+- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-02-26)*
+- **[misty-step/vox-perf-audit](https://github.com/misty-step/vox-perf-audit)** — Append-only durable store for Vox perf audit artifacts *(2026-02-26)*
+- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-26)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-26)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-26)*
 <!-- RECENT:END -->
 
 ---
