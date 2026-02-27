@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-02-26)*
-- **[misty-step/vox-perf-audit](https://github.com/misty-step/vox-perf-audit)** — Append-only durable store for Vox perf audit artifacts *(2026-02-26)*
-- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-02-26)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-02-26)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-02-26)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-02-27)*
+- **[phrazzld/whetstone](https://github.com/phrazzld/whetstone)** `TypeScript` — mobile app for tracking your reading *(2026-02-27)*
+- **[misty-step/vox-perf-audit](https://github.com/misty-step/vox-perf-audit)** — Append-only durable store for Vox perf audit artifacts *(2026-02-27)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-02-27)*
+- **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-02-27)*
 <!-- RECENT:END -->
 
 ---
