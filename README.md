@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/laboratory](https://github.com/misty-step/laboratory)** `Python` — Misty Step's open science laboratory. Hypotheses, experiments, results, tools. *(2026-03-01)*
-- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-03-01)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-01)*
-- **[phrazzld/claude-config](https://github.com/phrazzld/claude-config)** `Python` *(2026-03-01)*
-- **[misty-step/heartbeat](https://github.com/misty-step/heartbeat)** `TypeScript` — Beautiful, set-and-forget uptime monitoring. *(2026-03-01)*
+- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Go` — programmable cognition *(2026-03-02)*
+- **[misty-step/laboratory](https://github.com/misty-step/laboratory)** `Python` — Misty Step's open science laboratory. Hypotheses, experiments, results, tools. *(2026-03-02)*
+- **[misty-step/caesar-in-a-year](https://github.com/misty-step/caesar-in-a-year)** `TypeScript` *(2026-03-02)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-02)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-03-02)*
 <!-- RECENT:END -->
 
 ---
