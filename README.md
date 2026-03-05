@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-04)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-04)*
-- **[misty-step/homebrew-tap](https://github.com/misty-step/homebrew-tap)** `Ruby` — Homebrew tap for Misty Step projects *(2026-03-04)*
-- **[misty-step/coldstart](https://github.com/misty-step/coldstart)** `TypeScript` — Opinionated Next.js starter for shipping fast. Misty Step stack: ConvexDB, Clerk, Stripe, PostHog, Sentry. *(2026-03-04)*
-- **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-03-04)*
+- **[misty-step/site-template](https://github.com/misty-step/site-template)** `Astro` — Astro + Tailwind starter template for business website demos *(2026-03-04)*
+- **[phrazzld/anyzine](https://github.com/phrazzld/anyzine)** `TypeScript` — on-demand zines on whatever you're into rn *(2026-03-04)*
+- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-04)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-03-04)*
+- **[misty-step/caesar-in-a-year](https://github.com/misty-step/caesar-in-a-year)** `TypeScript` *(2026-03-04)*
 <!-- RECENT:END -->
 
 ---
