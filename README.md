@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/site-template](https://github.com/misty-step/site-template)** `Astro` — Astro + Tailwind starter template for business website demos *(2026-03-04)*
-- **[phrazzld/anyzine](https://github.com/phrazzld/anyzine)** `TypeScript` — on-demand zines on whatever you're into rn *(2026-03-04)*
-- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-04)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-03-04)*
-- **[misty-step/caesar-in-a-year](https://github.com/misty-step/caesar-in-a-year)** `TypeScript` *(2026-03-04)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-06)*
+- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-06)*
+- **[misty-step/caesar-in-a-year](https://github.com/misty-step/caesar-in-a-year)** `TypeScript` *(2026-03-06)*
+- **[phrazzld/agent-skills](https://github.com/phrazzld/agent-skills)** `Shell` — 74 deep skills for AI coding agents. Claude, Codex, Gemini, Pi. *(2026-03-06)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-05)*
 <!-- RECENT:END -->
 
 ---
