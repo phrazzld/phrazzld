@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-07)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-07)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-06)*
-- **[phrazzld/agent-skills](https://github.com/phrazzld/agent-skills)** `Shell` — 74 deep skills for AI coding agents. Claude, Codex, Gemini, Pi. *(2026-03-06)*
-- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-03-06)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-08)*
+- **[misty-step/vox](https://github.com/misty-step/vox)** `Swift` — Invisible editor for macOS: hotkey dictation to clean text. *(2026-03-08)*
+- **[misty-step/cadence](https://github.com/misty-step/cadence)** `Swift` — Native macOS menu bar Pomodoro timer. 25/5/15 minute intervals. *(2026-03-08)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-08)*
+- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-08)*
 <!-- RECENT:END -->
 
 ---
