@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Go` — programmable cognition *(2026-03-09)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-03-09)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-03-08)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-08)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-08)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-10)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-10)*
+- **[phrazzld/agent-skills](https://github.com/phrazzld/agent-skills)** `Shell` — 74 deep skills for AI coding agents. Claude, Codex, Gemini, Pi. *(2026-03-10)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-10)*
+- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-09)*
 <!-- RECENT:END -->
 
 ---
