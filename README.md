@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-13)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Python` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-14)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-14)*
+- **[phrazzld/agent-skills](https://github.com/phrazzld/agent-skills)** `Shell` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-03-14)*
+- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-03-13)*
 - **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-13)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Python` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-13)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-12)*
-- **[phrazzld/agent-skills](https://github.com/phrazzld/agent-skills)** `Shell` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-03-12)*
 <!-- RECENT:END -->
 
 ---
