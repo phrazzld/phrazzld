@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-03-23)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-23)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-03-22)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Elixir` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-22)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-22)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-24)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-24)*
+- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-03-23)*
+- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-23)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-03-23)*
 <!-- RECENT:END -->
 
 ---
