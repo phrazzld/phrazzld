@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-03-24)*
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-24)*
-- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-03-23)*
-- **[misty-step/gitpulse](https://github.com/misty-step/gitpulse)** `TypeScript` — github activity, distilled *(2026-03-23)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-03-23)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Elixir` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-03-25)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-03-25)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-03-25)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Elixir` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-03-25)*
+- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-03-24)*
 <!-- RECENT:END -->
 
 ---
