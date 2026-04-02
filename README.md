@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-01)*
-- **[phrazzld/codex](https://github.com/phrazzld/codex)** `Shell` — dotfiles, configs, references, and so on *(2026-03-31)*
-- **[phrazzld/handoff](https://github.com/phrazzld/handoff)** `Go` — get a full codebase of context copied to your clipboard *(2026-03-31)*
-- **[phrazzld/pi-agent-config](https://github.com/phrazzld/pi-agent-config)** `TypeScript` — Versioned Pi agent config, ready to sync. *(2026-03-31)*
-- **[phrazzld/claude-config](https://github.com/phrazzld/claude-config)** `Python` *(2026-03-31)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-02)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-04-02)*
+- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-04-02)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Elixir` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-04-01)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-01)*
 <!-- RECENT:END -->
 
 ---
