@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-04-03)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-04)*
+- **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-04-04)*
 - **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Elixir` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-04-03)*
 - **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-04-03)*
 - **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-04-03)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-03)*
 <!-- RECENT:END -->
 
 ---
