@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-10)*
+- **[phrazzld/whetstone](https://github.com/phrazzld/whetstone)** `TypeScript` — mobile app for tracking your reading *(2026-04-10)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-04-09)*
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-04-09)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-09)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-09)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Elixir` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-04-09)*
-- **[phrazzld/atreides](https://github.com/phrazzld/atreides)** `Python` — Prediction market trading bot. Kalshi + Avellaneda-Stoikov market making. *(2026-04-08)*
 <!-- RECENT:END -->
 
 ---
