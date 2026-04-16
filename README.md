@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-15)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-04-15)*
-- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-04-15)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-14)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-04-14)*
+- **[phrazzld/anyzine](https://github.com/phrazzld/anyzine)** `TypeScript` — on-demand zines on whatever you're into rn *(2026-04-16)*
+- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-04-16)*
+- **[phrazzld/vanity](https://github.com/phrazzld/vanity)** `CSS` — whadup *(2026-04-16)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-15)*
+- **[phrazzld/codex](https://github.com/phrazzld/codex)** `Shell` — dotfiles, configs, references, and so on *(2026-04-15)*
 <!-- RECENT:END -->
 
 ---
