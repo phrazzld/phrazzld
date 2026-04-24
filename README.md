@@ -32,10 +32,10 @@ Agents that monitor, review, and ship code:
 
 <!-- RECENT:START -->
 - **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-04-23)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-04-23)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-04-23)*
 - **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-04-23)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `TypeScript` — smart smooth srs *(2026-04-23)*
 - **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-04-23)*
-- **[phrazzld/ponder](https://github.com/phrazzld/ponder)** `Rust` — blazingly fast note-taking cli *(2026-04-23)*
 <!-- RECENT:END -->
 
 ---
