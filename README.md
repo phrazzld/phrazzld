@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-05-06)*
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-05-04)*
 - **[phrazzld/bitcoin-price-tag-splash](https://github.com/phrazzld/bitcoin-price-tag-splash)** `TypeScript` — Bitcoin Price Tag browser extension splash page built with Next.js, TypeScript, and Tailwind CSS. *(2026-05-02)*
 - **[misty-step/volume](https://github.com/misty-step/volume)** `TypeScript` — track sets and reps *(2026-05-01)*
 - **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-04-30)*
-- **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-04-30)*
 <!-- RECENT:END -->
 
 ---
