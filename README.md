@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-05-09)*
+- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-05-09)*
+- **[phrazzld/ponder](https://github.com/phrazzld/ponder)** `Rust` — blazingly fast note-taking cli *(2026-05-08)*
 - **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-05-08)*
-- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-05-07)*
-- **[phrazzld/ponder](https://github.com/phrazzld/ponder)** `Rust` — blazingly fast note-taking cli *(2026-05-06)*
 - **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-05-06)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-05-04)*
 <!-- RECENT:END -->
 
 ---
