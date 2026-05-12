@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-05-11)*
-- **[phrazzld/whetstone](https://github.com/phrazzld/whetstone)** `TypeScript` — mobile app for tracking your reading *(2026-05-09)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-05-09)*
-- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-05-09)*
-- **[phrazzld/ponder](https://github.com/phrazzld/ponder)** `Rust` — blazingly fast note-taking cli *(2026-05-08)*
+- **[phrazzld/bitcoin-price-tag-splash](https://github.com/phrazzld/bitcoin-price-tag-splash)** `TypeScript` — Bitcoin Price Tag browser extension splash page built with Next.js, TypeScript, and Tailwind CSS. *(2026-05-12)*
+- **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-05-12)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-05-12)*
+- **[misty-step/bibliomnomnom](https://github.com/misty-step/bibliomnomnom)** `TypeScript` — A digital garden for voracious readers *(2026-05-12)*
+- **[misty-step/heartbeat](https://github.com/misty-step/heartbeat)** `TypeScript` — Beautiful, set-and-forget uptime monitoring. *(2026-05-11)*
 <!-- RECENT:END -->
 
 ---
