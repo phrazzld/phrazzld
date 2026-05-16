@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-05-14)*
-- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-14)*
+- **[phrazzld/bitcoin-price-tag-splash](https://github.com/phrazzld/bitcoin-price-tag-splash)** `TypeScript` — Bitcoin Price Tag browser extension splash page built with Next.js, TypeScript, and Tailwind CSS. *(2026-05-15)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-05-15)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-15)*
+- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-15)*
 - **[misty-step/cadence](https://github.com/misty-step/cadence)** `Swift` — Native macOS menu bar Pomodoro timer. 25/5/15 minute intervals. *(2026-05-14)*
-- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-14)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-05-13)*
 <!-- RECENT:END -->
 
 ---
