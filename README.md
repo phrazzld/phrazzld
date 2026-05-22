@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-21)*
 - **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-05-20)*
 - **[phrazzld/atreides](https://github.com/phrazzld/atreides)** `Python` — Prediction market trading bot. Kalshi + Avellaneda-Stoikov market making. *(2026-05-19)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-05-19)*
 - **[misty-step/gradient](https://github.com/misty-step/gradient)** `Go` — Opinionated control plane for governed AI-assisted work *(2026-05-19)*
-- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-05-18)*
 <!-- RECENT:END -->
 
 ---
