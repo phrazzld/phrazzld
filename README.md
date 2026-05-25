@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-05-24)*
 - **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-22)*
 - **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-05-22)*
 - **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-22)*
 - **[phrazzld/bitcoin-price-tag-splash](https://github.com/phrazzld/bitcoin-price-tag-splash)** `TypeScript` — Bitcoin Price Tag browser extension splash page built with Next.js, TypeScript, and Tailwind CSS. *(2026-05-22)*
-- **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-05-20)*
 <!-- RECENT:END -->
 
 ---
