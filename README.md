@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-06-02)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-02)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-02)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-06-02)*
 - **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-06-01)*
-- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-06-01)*
-- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-01)*
-- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-01)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-06-01)*
 <!-- RECENT:END -->
 
 ---
