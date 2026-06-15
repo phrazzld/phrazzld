@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-14)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-06-14)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Rust` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-14)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-14)*
 - **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-13)*
 - **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-13)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-06-13)*
 <!-- RECENT:END -->
 
 ---
